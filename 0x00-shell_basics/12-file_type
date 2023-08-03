@@ -1,2 +1,2 @@
 #!/bin/bash
-printf  'iamfile'  /tmp/iamfile
+file_path="/tmp/iamfile"
